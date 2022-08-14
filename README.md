@@ -1,2 +1,2 @@
 # Profile
-Here I tried to make exactly the same profile which was given in the task and also worked to maked it responsive. 
+Here I have tried to make an exact copy of the profile. 
